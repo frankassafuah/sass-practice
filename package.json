@@ -1,0 +1,19 @@
+{
+    "name": "sass",
+    "version": "1.0.0",
+    "description": "learning sass",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm run test"
+    },
+    "keywords": [
+        "sass"
+    ],
+    "author": "frank",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-sass": "^5.1.0",
+        "sass": "^1.56.1"
+    }
+}
