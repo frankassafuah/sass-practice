@@ -4,7 +4,7 @@ const sass = require('gulp-sass')(require('sass'))
 
 //function to compile our sass
 function buildStyles() {
-    return src('sccs/**/*.scss')
+    return src('scss/**/*.scss')
         .pipe(sass())
         .pipe(dest('css'))
 }
