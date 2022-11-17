@@ -4,6 +4,12 @@ $primary: #326dee;
 $secondary: #1ac888;
 $error: #d32752;
 $info: #f6c31c;
+// Color palette
+$colors: ( "primary": $primary, "secondary": $secondary, "error": $error, "info": $info, "blue": #1919e6);
+@debug map-get($colors, "primary"); //returns the value of the key
+@debug map-has-key($colors, "primary"); //returns true/false
+@debug map-remove($colors, "primary"); //removes the key from the map
+@debug map-merge($colors, ("pink": #ffc0cb)); //adds to the map
 
 /*spacing*/
 
