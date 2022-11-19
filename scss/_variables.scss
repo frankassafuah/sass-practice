@@ -5,7 +5,7 @@ $secondary: #1ac888;
 $error: #d32752;
 $info: #f6c31c;
 // Color palette
-$colors: ( "primary": $primary, "secondary": $secondary, "error": $error, "info": $info, "blue": #1919e6, "white": #fff);
+$colors: ( "primary": $primary, "secondary": $secondary, "error": $error, "info": $info, "blue": #1919e6, "white": white, "black": black);
 @debug map-get($colors, "primary"); //returns the value of the key
 @debug map-has-key($colors, "primary"); //returns true/false
 @debug map-remove($colors, "primary"); //removes the key from the map
