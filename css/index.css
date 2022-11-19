@@ -36,11 +36,19 @@ img {
   color: #326dee;
 }
 
+.text-hover-primary:hover {
+  color: #326dee;
+}
+
 .bg-primary {
   background-color: #326dee;
 }
 
 .text-primary-light-1 {
+  color: #477cf0;
+}
+
+.text-hover-primary-light-1:hover {
   color: #477cf0;
 }
 
@@ -52,11 +60,19 @@ img {
   color: #5b8af1;
 }
 
+.text-hover-primary-light-2:hover {
+  color: #5b8af1;
+}
+
 .bg-primary-light-2 {
   background-color: #5b8af1;
 }
 
 .text-primary-light-3 {
+  color: #7099f3;
+}
+
+.text-hover-primary-light-3:hover {
   color: #7099f3;
 }
 
@@ -68,11 +84,19 @@ img {
   color: #84a7f5;
 }
 
+.text-hover-primary-light-4:hover {
+  color: #84a7f5;
+}
+
 .bg-primary-light-4 {
   background-color: #84a7f5;
 }
 
 .text-primary-light-5 {
+  color: #99b6f7;
+}
+
+.text-hover-primary-light-5:hover {
   color: #99b6f7;
 }
 
@@ -124,11 +148,19 @@ img {
   color: #1ac888;
 }
 
+.text-hover-secondary:hover {
+  color: #1ac888;
+}
+
 .bg-secondary {
   background-color: #1ac888;
 }
 
 .text-secondary-light-1 {
+  color: #31ce94;
+}
+
+.text-hover-secondary-light-1:hover {
   color: #31ce94;
 }
 
@@ -140,11 +172,19 @@ img {
   color: #48d3a0;
 }
 
+.text-hover-secondary-light-2:hover {
+  color: #48d3a0;
+}
+
 .bg-secondary-light-2 {
   background-color: #48d3a0;
 }
 
 .text-secondary-light-3 {
+  color: #5fd9ac;
+}
+
+.text-hover-secondary-light-3:hover {
   color: #5fd9ac;
 }
 
@@ -156,11 +196,19 @@ img {
   color: #76deb8;
 }
 
+.text-hover-secondary-light-4:hover {
+  color: #76deb8;
+}
+
 .bg-secondary-light-4 {
   background-color: #76deb8;
 }
 
 .text-secondary-light-5 {
+  color: #8de4c4;
+}
+
+.text-hover-secondary-light-5:hover {
   color: #8de4c4;
 }
 
@@ -212,11 +260,19 @@ img {
   color: #d32752;
 }
 
+.text-hover-error:hover {
+  color: #d32752;
+}
+
 .bg-error {
   background-color: #d32752;
 }
 
 .text-error-light-1 {
+  color: #d73d63;
+}
+
+.text-hover-error-light-1:hover {
   color: #d73d63;
 }
 
@@ -228,11 +284,19 @@ img {
   color: #dc5275;
 }
 
+.text-hover-error-light-2:hover {
+  color: #dc5275;
+}
+
 .bg-error-light-2 {
   background-color: #dc5275;
 }
 
 .text-error-light-3 {
+  color: #e06886;
+}
+
+.text-hover-error-light-3:hover {
   color: #e06886;
 }
 
@@ -244,11 +308,19 @@ img {
   color: #e57d97;
 }
 
+.text-hover-error-light-4:hover {
+  color: #e57d97;
+}
+
 .bg-error-light-4 {
   background-color: #e57d97;
 }
 
 .text-error-light-5 {
+  color: #e993a9;
+}
+
+.text-hover-error-light-5:hover {
   color: #e993a9;
 }
 
@@ -300,11 +372,19 @@ img {
   color: #f6c31c;
 }
 
+.text-hover-info:hover {
+  color: #f6c31c;
+}
+
 .bg-info {
   background-color: #f6c31c;
 }
 
 .text-info-light-1 {
+  color: #f7c933;
+}
+
+.text-hover-info-light-1:hover {
   color: #f7c933;
 }
 
@@ -316,11 +396,19 @@ img {
   color: #f8cf49;
 }
 
+.text-hover-info-light-2:hover {
+  color: #f8cf49;
+}
+
 .bg-info-light-2 {
   background-color: #f8cf49;
 }
 
 .text-info-light-3 {
+  color: #f9d560;
+}
+
+.text-hover-info-light-3:hover {
   color: #f9d560;
 }
 
@@ -332,11 +420,19 @@ img {
   color: #fadb77;
 }
 
+.text-hover-info-light-4:hover {
+  color: #fadb77;
+}
+
 .bg-info-light-4 {
   background-color: #fadb77;
 }
 
 .text-info-light-5 {
+  color: #fbe18e;
+}
+
+.text-hover-info-light-5:hover {
   color: #fbe18e;
 }
 
@@ -388,11 +484,19 @@ img {
   color: #1919e6;
 }
 
+.text-hover-blue:hover {
+  color: #1919e6;
+}
+
 .bg-blue {
   background-color: #1919e6;
 }
 
 .text-blue-light-1 {
+  color: #3030e9;
+}
+
+.text-hover-blue-light-1:hover {
   color: #3030e9;
 }
 
@@ -404,11 +508,19 @@ img {
   color: #4747eb;
 }
 
+.text-hover-blue-light-2:hover {
+  color: #4747eb;
+}
+
 .bg-blue-light-2 {
   background-color: #4747eb;
 }
 
 .text-blue-light-3 {
+  color: #5e5eee;
+}
+
+.text-hover-blue-light-3:hover {
   color: #5e5eee;
 }
 
@@ -420,11 +532,19 @@ img {
   color: #7575f0;
 }
 
+.text-hover-blue-light-4:hover {
+  color: #7575f0;
+}
+
 .bg-blue-light-4 {
   background-color: #7575f0;
 }
 
 .text-blue-light-5 {
+  color: #8c8cf3;
+}
+
+.text-hover-blue-light-5:hover {
   color: #8c8cf3;
 }
 
@@ -476,11 +596,19 @@ img {
   color: white;
 }
 
+.text-hover-white:hover {
+  color: white;
+}
+
 .bg-white {
   background-color: white;
 }
 
 .text-black {
+  color: black;
+}
+
+.text-hover-black:hover {
   color: black;
 }
 
