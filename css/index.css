@@ -658,6 +658,21 @@ img {
   background-color: #4a7ef0;
 }
 
+.btn-complement-primary {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #326dee;
+  color: #fae7bf;
+}
+.btn-complement-primary:hover {
+  color: #326dee;
+  background-color: #fae7bf;
+}
+
 .btn-outlined-primary {
   text-decoration: none;
   cursor: pointer;
@@ -683,6 +698,21 @@ img {
 }
 .btn-secondary:hover {
   background-color: #1ddf97;
+}
+
+.btn-complement-secondary {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #1ac888;
+  color: #f08bb0;
+}
+.btn-complement-secondary:hover {
+  color: #1ac888;
+  background-color: #f08bb0;
 }
 
 .btn-outlined-secondary {
@@ -712,6 +742,21 @@ img {
   background-color: #da3961;
 }
 
+.btn-complement-error {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #d32752;
+  color: #a5eedc;
+}
+.btn-complement-error:hover {
+  color: #d32752;
+  background-color: #a5eedc;
+}
+
 .btn-outlined-error {
   text-decoration: none;
   cursor: pointer;
@@ -737,6 +782,21 @@ img {
 }
 .btn-info:hover {
   background-color: #f7c935;
+}
+
+.btn-complement-info {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #f6c31c;
+  color: #afc1fc;
+}
+.btn-complement-info:hover {
+  color: #f6c31c;
+  background-color: #afc1fc;
 }
 
 .btn-outlined-info {
@@ -766,6 +826,21 @@ img {
   background-color: #3030e9;
 }
 
+.btn-complement-blue {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #1919e6;
+  color: #f5f5a3;
+}
+.btn-complement-blue:hover {
+  color: #1919e6;
+  background-color: #f5f5a3;
+}
+
 .btn-outlined-blue {
   text-decoration: none;
   cursor: pointer;
@@ -790,6 +865,21 @@ img {
   background-color: white;
 }
 .btn-white:hover {
+  background-color: white;
+}
+
+.btn-complement-white {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: white;
+  color: white;
+}
+.btn-complement-white:hover {
+  color: white;
   background-color: white;
 }
 
@@ -818,6 +908,21 @@ img {
 }
 .btn-black:hover {
   background-color: #0d0d0d;
+}
+
+.btn-complement-black {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: black;
+  color: #4d4d4d;
+}
+.btn-complement-black:hover {
+  color: black;
+  background-color: #4d4d4d;
 }
 
 .btn-outlined-black {
