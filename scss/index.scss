@@ -1,13 +1,18 @@
 //note: The order of import matters
 //varibles & functions
-@import 'variables';
-@import 'functions';
+@import "variables";
+@import "functions";
+
 //base & layouts
-@import 'base';
+@import "base";
+@import "breakpoints";
+
 //colors
-@import 'colors';
+@import "colors";
+
 //components (button, card, navbar)
-@import 'components/card';
-@import 'components/button';
+@import "components/card";
+@import "components/button";
+
 //utilities (margin, padding, opacity)
-@import 'utilities'
+@import "utilities";
