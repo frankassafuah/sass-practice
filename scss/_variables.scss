@@ -13,6 +13,7 @@ $colors: (
   "blue": #1919e6,
   "white": white,
   "black": black,
+  "gray": #808080,
 );
 @debug map-get($colors, "primary"); //returns the value of the key
 @debug map-has-key($colors, "primary"); //returns true/false
