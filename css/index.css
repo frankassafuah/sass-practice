@@ -1349,6 +1349,49 @@ img {
   background-color: black;
 }
 
+.navbar .container, .navbar-black .container, .navbar-white .container, .navbar-blue .container, .navbar-info .container, .navbar-error .container, .navbar-secondary .container, .navbar-primary .container, .navbar, .navbar-black, .navbar-white, .navbar-blue, .navbar-info, .navbar-error, .navbar-secondary, .navbar-primary {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.navbar, .navbar-black, .navbar-white, .navbar-blue, .navbar-info, .navbar-error, .navbar-secondary, .navbar-primary {
+  padding: 0.75rem 1.5rem;
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.navbar .site-title, .navbar-black .site-title, .navbar-white .site-title, .navbar-blue .site-title, .navbar-info .site-title, .navbar-error .site-title, .navbar-secondary .site-title, .navbar-primary .site-title {
+  font-size: 1rem;
+}
+.navbar-primary {
+  background-color: #326dee;
+}
+
+.navbar-secondary {
+  background-color: #1ac888;
+}
+
+.navbar-error {
+  background-color: #d32752;
+}
+
+.navbar-info {
+  background-color: #f6c31c;
+}
+
+.navbar-blue {
+  background-color: #1919e6;
+}
+
+.navbar-white {
+  background-color: white;
+}
+
+.navbar-black {
+  background-color: black;
+}
+
 .p-0 {
   padding: 0;
 }
